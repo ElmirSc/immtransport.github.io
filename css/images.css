@@ -1,0 +1,23 @@
+.image-container {
+  display: grid;
+  place-items: center; /* Zentriert den Inhalt horizontal und vertikal */
+  height: 500px; /* Höhe der Container-Box anpassen */
+  background: linear-gradient(-45deg, #800E0E 35%, #CCCDD8 65%);
+}
+
+
+.warenkorb-container button img{
+  width: 50px;
+  height: 50px;
+}
+
+.transporter-section img {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+
+}
+
+@media only screen and (max-width: 768px) {
+
+}
